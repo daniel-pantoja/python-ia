@@ -13,6 +13,9 @@ Este projeto visa desenvolver um modelo de inteligência artificial para prever 
 ## Ferramentas
 Foi instalado a linguagem <a href= "https://www.python.org/downloads/" target="blank" > Python </a> na versão 3.13.2
 
+Foi instalado a extensão Jupyter no <a href = "https://code.visualstudio.com/download" target="_blank" > VS Code </a>.
+
+Foi instalado as bibliotecas pandas e scikit-learn, basta abrir o terminal e escrever pip install pandas scikit-learn
 ## Rodando o Projeto
 
 ## Status do projeto
