@@ -16,6 +16,18 @@ Foi instalado a linguagem <a href= "https://www.python.org/downloads/" target="b
 Foi instalado a extensão Jupyter no <a href = "https://code.visualstudio.com/download" target="_blank" > VS Code </a>.
 
 Foi instalado as bibliotecas pandas e scikit-learn, basta abrir o terminal e escrever pip install pandas scikit-learn
+
+## Pré-requisitos
+Antes de rodar o projeto, você precisa ter o Python instalado em sua máquina. Recomenda-se a versão 3.6 ou superior. Além disso, você precisará das seguintes bibliotecas:
+
+- `pandas`
+- `scikit-learn`
+
+Você pode instalar essas bibliotecas utilizando o `pip`:
+
+```bash
+pip install pandas scikit-learn
+```
 ## Rodando o Projeto
 
 ## Status do projeto
