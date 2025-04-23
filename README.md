@@ -29,6 +29,30 @@ Você pode instalar essas bibliotecas utilizando o `pip`:
 pip install pandas scikit-learn
 ```
 ## Rodando o Projeto
+1. Clone o repositório ou baixe os arquivos necessários.
+
+2. Abra o Jupyter Notebook no diretório onde os arquivos estão localizados:
+```bash
+jupyter notebook
+```
+
+3. Abra o arquivo `inicial.ipynb` no Jupyter.
+
+4. Execute as células do notebook na ordem para realizar as seguintes etapas:
+
+* Importação de dados
+* Preparação da base de dados
+* Criação e treinamento do modelo de IA
+* Avaliação do modelo
+* Realização de aceleração para novos clientes
+
+## Passos Detalhados
+* Passo 0 : Entender o desafio da empresa.
+* Passo 1 : Importar uma base de dados.
+* Passo 2 : Preparar uma base de dados para o modelo de IA.
+* Passo 3 : Criar o modelo de IA utilizando Árvores de Decisão e KNN.
+* Passo 4 : Escolha o melhor modelo com base na acurácia.
+* Passo 5 : Fazer variações sobre novos dados de clientes.
 
 ## Status do projeto
 :heavy_check_mark: Aplicação finalizada.
