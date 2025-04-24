@@ -9,6 +9,7 @@ Este projeto visa desenvolver um modelo de inteligência artificial para prever 
 * Pandas
 * Scikit-learn
 * Jupyter
+* CSV
 
 ## Ferramentas
 Foi instalado a linguagem <a href= "https://www.python.org/downloads/" target="blank" > Python </a> na versão 3.13.2
